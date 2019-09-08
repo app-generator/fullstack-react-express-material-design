@@ -10,7 +10,7 @@ Full-Stack [React](https://reactjs.org/) [Material Design](https://demos.creativ
 
 ## Product Features
 
-This full-stack app is built using a decoupled architecture, where the **React** Material Desifn frontend communicates with the Nodejs / [Express](https://expressjs.com/) backend through secure ajax call.
+This full-stack app is built using a decoupled architecture, where the **React** Material Design frontend communicates with the Nodejs / [Express](https://expressjs.com/) backend through secure ajax call.
 
  - Nodejs / [Express](https://expressjs.com/) backend
  - SQLite database, managed by Sequelize ORM. A simple Users tabel is provided.
